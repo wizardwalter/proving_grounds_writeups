@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "4febdcccb96ad55d",
+    "type": "split",
+    "children": [
+      {
+        "id": "07bfa18fbb6d9afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21fae06b9ac2b903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "levram/192.168.206.24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "192.168.206.24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8281a65158cfb374",
+    "type": "split",
+    "children": [
+      {
+        "id": "7581dda2cbdf3302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87d26b601f1a6037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6581dda473204212",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4faa9481c1ae903",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad39ccab629ab8fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "066e08634e31a341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f22429f243ec83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "levram/192.168.206.24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 192.168.206.24"
+            }
+          },
+          {
+            "id": "a408c80b73588599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "levram/192.168.206.24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 192.168.206.24"
+            }
+          },
+          {
+            "id": "0f4b22d884efdc00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fba3352b4bc89764",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "levram/192.168.206.24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 192.168.206.24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "21fae06b9ac2b903",
+  "lastOpenFiles": [
+    "Pasted image 20251015213659.png",
+    "Pasted image 20251015213625.png",
+    "Pasted image 20251015213222.png",
+    "Welcome.md",
+    "levram/192.168.206.24.md",
+    "levram"
+  ]
+}
