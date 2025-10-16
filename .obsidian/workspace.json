@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "levram/192.168.206.24.md",
+                "file": "kevin/192.168.119.45.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "192.168.206.24"
+              "title": "192.168.119.45"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "21fae06b9ac2b903",
   "lastOpenFiles": [
-    "Untitled.md",
     "levram/192.168.206.24.md",
+    "kevin/192.168.119.45.md",
+    "kevin",
+    "Untitled.md",
     "Pasted image 20251015213659.png",
     "Pasted image 20251015213625.png",
     "Pasted image 20251015213222.png",
